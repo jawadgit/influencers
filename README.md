@@ -1,8 +1,21 @@
 # influencers
 
 
-# This file takes latitude and longitude in decimal values and converts into degree minute second.
+# db.php
+	
+	1- it contains configureation with database
 
+# getCountryCityByLatLong.php	
+
+	1- form is given
+	2- enter latitude and longitude
+	3- database query finds the nearest latitude and longitude by calculating distance
+	4- country and city and latitude and longitude is shown on frontend
+
+# getLocation.php	
+
+	this file converts the decimal latitude and longitude into the degree minutes and secconds
+	
 # for example:
 
 # 1- latitude decimal value = 27.7592
