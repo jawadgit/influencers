@@ -1,12 +1,12 @@
 <?php
 
-$latitude = -33.7293882;
-$longitude = -73.09314610000001;
+$latitude = 30.375321;
+$longitude = 69.34511599999996;
 $latitudeDMS = '';
 $longitudeDMS = '';
 
 echo "<h1>Latitude should be between 90 to -90 degree</h1>";
-echo "<h1>Longitude shuold be between 180 to -180 degree</h1>";
+echo "<h1>Longitude should be between 180 to -180 degree</h1>";
 
 // get latitude and longitude
 function getLatitudeLongitude($latitude, $longitude){
