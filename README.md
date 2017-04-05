@@ -17,7 +17,7 @@
 
 # final result will be 
 
-# latitude decimal value 27.7592 <=> latitude degree minute second value 27degree 45minute 33.12second
+# latitude decimal value 27.7592 <=> latitude degree minute second value 27 Degree 45 Minutes 33.12 Seconds N
 
 # with the help of degree minute second we can easily get location name
 
