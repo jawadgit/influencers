@@ -14,7 +14,7 @@
 
 # getLocation.php	
 
-	this file converts the decimal latitude and longitude into the degree minutes and secconds
+	this file converts the decimal latitude and longitude into the degree minutes and seconds
 	
 # for example:
 
