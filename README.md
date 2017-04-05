@@ -9,8 +9,8 @@
 
 	1- form is given
 	2- enter latitude and longitude
-	3- database query finds the nearest latitude and longitude by calculating distance
-	4- country and city and latitude and longitude is shown on frontend
+	3- database query finds the nearest latitude and longitude by calculating distance in miles
+	4- country and city based on latitude and longitude is shown on frontend
 
 # getLocation.php	
 
